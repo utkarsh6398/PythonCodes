@@ -29,7 +29,7 @@ def insertAfter(v):
 
 def insertMid(v,pos):
     if pos==1:
-        Bef()
+        insertBefore()
     elif pos>1:
         n = Node(v)
         index = pos-2
