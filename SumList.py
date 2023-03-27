@@ -1,4 +1,4 @@
-#Remove Dup from SLL
+#Sum of two numbers whose digits are as reversed LL
 import SLL_Class as sll
 
 #Linked List created and values are fetched
