@@ -12,6 +12,7 @@ l=[]
 tmp=s.head
 l.append(tmp.val)
 
+#Driver Code
 while tmp != s.tail:
     if tmp.next.val in l:
         tmp.next=tmp.next.next
